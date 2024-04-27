@@ -3,6 +3,6 @@
 
 void sun()
 {
-  setdfillstyle(1, YEllOW);
+  setfillstyle(1, YELLOW);
    fillellipse(100, 100, 80, 80);
 }
