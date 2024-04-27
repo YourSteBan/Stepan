@@ -1,7 +1,7 @@
 #include "graphics.h"
 #include "picture.hpp"
 
-void main()
+void man()
 {
    setfillstyle(1, WHITE);
    fillellipse(600, 300, 50, 50);
